@@ -1,0 +1,13 @@
+en-biobert-ner-symptom @ https://huggingface.co/pmaitra/en_biobert_ner_symptom/resolve/main/en_biobert_ner_symptom-any-py3-none-any.whl#sha256=287fec482a5e66d3e59213cf57b984720a9445294a21b72933971b0302acf510
+huggingface-hub==0.16.4
+spacy==3.5.4
+spacy-alignments==0.9.0
+spacy-legacy==3.0.12
+spacy-loggers==1.0.4
+spacy-stanza==1.0.3
+spacy-transformers==1.2.5
+stanza==1.5.0
+tokenizers==0.13.3
+transformers==4.30.2
+negspacy>=0.1.8
+pandas>=1.2.0
